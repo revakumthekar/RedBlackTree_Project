@@ -17,7 +17,7 @@ DictionaryReaderInterface.java : This class is an interface for DictionaryReader
 DictionaryReader.java : This class writes the code for the method in DictionaryReaderInterface to parse through the data in a file
 TestDictionaryReaderAndWord.java : This class tests DictionaryReader and Word and sees if the methods work as they should
 TestDictionary.txt : This is a dummy text file to see how the classes I wrote work on a file instead of just a hardcoded string.
-dictionary.txt : This is the official text file that our group project is being run on and I created it with a bunch of words and their respective defitinions
+dictionary.txt : This is the official text file that our group project is being run on and I created it with a bunch of words and their respective definitions
 RedBlackTree.java : This the basic RedBlackTree data structure I wrote in week 7 and we are using it as the RBT in our project
 
 
